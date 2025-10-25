@@ -26,3 +26,6 @@ Collected and cleaned road accident data for accurate analysis.
 Developed the Power BI dashboard with data models and visualizations.
 Analyzed results to identify accident trends, high-risk areas, and safety factors.
 
+## Dashboard
+https://github.com/Reshma005/Data-Analysis-Dashboard/blob/main/Screenshot%202025-10-25%20101600.png
+
