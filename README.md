@@ -28,4 +28,4 @@ Analyzed results to identify accident trends, high-risk areas, and safety factor
 
 ## Dashboard
 
-![Uploading Screenshot 2025-10-25 101600.png…]()
+Screenshot 2025-10-25 101600.png
